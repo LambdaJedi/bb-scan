@@ -1,0 +1,5 @@
+repos/
+reports/
+*.log
+.env
+.env.local
